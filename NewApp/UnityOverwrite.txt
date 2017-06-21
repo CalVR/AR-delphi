@@ -5,13 +5,13 @@
 # Write a line equal to 'overwrite-all' (without quotes) to overwrite everything (preserved accross builds)
 # Write a line equal to 'keep-all' (without quotes) to keep files regardless their modification (preserved accross builds)
 # Default behavior is to never overwrite files
-SharedHolograms.sln: FFB4AE5CE7F180F3BA86D67C1E2A4502
+SharedHolograms.sln: 8EF16671D74DE702E25E00A766736018
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 GeneratedProjects\UWP\Assembly-CSharp-firstpass\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 SharedHolograms\App.cs: C87B2766E9D1D08CB976FA1E1B4B4FF6
 SharedHolograms\Package.appxmanifest: 9CFE3C7FC078B289AD4D7910E1C9AAEB
 SharedHolograms\project.json: 1D02BC64BAC0D041019673A1C4C51737
-SharedHolograms\SharedHolograms.csproj: CBA771990DD5AB3C8A23A4839AD60567
+SharedHolograms\SharedHolograms.csproj: 3C058648A99FAD65AB14C0AEDAC36567
 SharedHolograms\SharedHolograms.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
 SharedHolograms\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
 SharedHolograms\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
