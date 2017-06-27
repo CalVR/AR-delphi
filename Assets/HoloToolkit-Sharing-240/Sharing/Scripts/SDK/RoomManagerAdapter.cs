@@ -28,7 +28,7 @@ namespace Academy.HoloToolkit.Sharing
                 this.RoomAddedEvent(newRoom);
             }
             Profile.EndRange();
-        }
+        } 
 
         public override void OnRoomClosed(Room room)
         {
